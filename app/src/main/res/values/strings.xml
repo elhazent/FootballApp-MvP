@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Football App API</string>
+    <string name="lastmatch">LAST MATCH</string>
+    <string name="nextmatch">NEXT MATCH</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="away_team">away team</string>
+</resources>
